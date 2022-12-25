@@ -1,4 +1,4 @@
-package me.ketlas.dtos;
+package me.ketlas.dtos.radar;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
